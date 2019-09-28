@@ -13,17 +13,26 @@ for i in 0...final do
     aux = inp.line(i).delete "\r"
     output.push("[ " + aux + " ]")
     a = inp.line(i).split(" ")
-    keywords = []    
+    keywords = []
+    circular_shifts = []
     a.each do |x|
         if not(stp.Is_Stop_Word(x))
             keywords.push(x)
         end
     end
     a.each do |x|
-        if(not(a.index(x) == 0) and a.include?(x))
-            output.push(shif.Shift(a,a.index(x)))
+        if(not(a.index(x) == 0) and keywords.include?(x))
+            circular_shifts.push(shif.Shift(a,a.index(x)))
         end
     end
+    circular_shifts.map! { |x|
+        x.downcase
+    }
+    circular_shifts.sort!
+    circular_shifts.map! { |x|
+        x.capitalize
+    }
+    output.push(circular_shifts.sort)
     output.push("\n")
 end
 out.out(output)
