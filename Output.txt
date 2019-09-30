@@ -1,394 +1,391 @@
 [ Incremental model checking of delta-oriented software product lines ]
-Checking of delta-oriented software product lines / incremental model
-Delta-oriented software product lines / incremental model checking of
-Lines / incremental model checking of delta-oriented software product
-Model checking of delta-oriented software product lines / incremental
-Product lines / incremental model checking of delta-oriented software
-Software product lines / incremental model checking of delta-oriented
+checking of delta-oriented software product lines / Incremental model
+delta-oriented software product lines / Incremental model checking of
+lines / Incremental model checking of delta-oriented software product
+model checking of delta-oriented software product lines / Incremental
+product lines / Incremental model checking of delta-oriented software
+software product lines / Incremental model checking of delta-oriented
 
 [ Parametric DeltaJ 1.5: Propagating Feature Attributes into Implementation Artifacts ]
-1.5: propagating feature attributes into implementation artifacts / parametric deltaj
-Artifacts / parametric deltaj 1.5: propagating feature attributes into implementation
-Attributes into implementation artifacts / parametric deltaj 1.5: propagating feature
-Deltaj 1.5: propagating feature attributes into implementation artifacts / parametric
-Feature attributes into implementation artifacts / parametric deltaj 1.5: propagating
-Implementation artifacts / parametric deltaj 1.5: propagating feature attributes into
-Propagating feature attributes into implementation artifacts / parametric deltaj 1.5:
+Artifacts / Parametric DeltaJ 1.5: Propagating Feature Attributes into Implementation
+Attributes into Implementation Artifacts / Parametric DeltaJ 1.5: Propagating Feature
+DeltaJ 1.5: Propagating Feature Attributes into Implementation Artifacts / Parametric
+Feature Attributes into Implementation Artifacts / Parametric DeltaJ 1.5: Propagating
+Implementation Artifacts / Parametric DeltaJ 1.5: Propagating Feature Attributes into
+Propagating Feature Attributes into Implementation Artifacts / Parametric DeltaJ 1.5:
 
 [ On type checking Delta-Oriented product lines ]
-Checking delta-oriented product lines / on type
-Delta-oriented product lines / on type checking
-Lines / on type checking delta-oriented product
-Product lines / on type checking delta-oriented
-Type checking delta-oriented product lines / on
+Delta-Oriented product lines / On type checking
+checking Delta-Oriented product lines / On type
+lines / On type checking Delta-Oriented product
+product lines / On type checking Delta-Oriented
+type checking Delta-Oriented product lines / On
 
 [ Refactoring Delta-Oriented Product Lines to achieve Monotonicity ]
-Achieve monotonicity / refactoring delta-oriented product lines to
-Delta-oriented product lines to achieve monotonicity / refactoring
-Lines to achieve monotonicity / refactoring delta-oriented product
-Monotonicity / refactoring delta-oriented product lines to achieve
-Product lines to achieve monotonicity / refactoring delta-oriented
+Delta-Oriented Product Lines to achieve Monotonicity / Refactoring
+Lines to achieve Monotonicity / Refactoring Delta-Oriented Product
+Monotonicity / Refactoring Delta-Oriented Product Lines to achieve
+Product Lines to achieve Monotonicity / Refactoring Delta-Oriented
+achieve Monotonicity / Refactoring Delta-Oriented Product Lines to
 
 [ Delta-Oriented FSM-Based Testing ]
-Fsm-based testing / delta-oriented
-Testing / delta-oriented fsm-based
+FSM-Based Testing / Delta-Oriented
+Testing / Delta-Oriented FSM-Based
 
 [ Delta-oriented test case prioritization for integration testing ofsoftware product lines ]
-Case prioritization for integration testing ofsoftware product lines / delta-oriented test
-Integration testing ofsoftware product lines / delta-oriented test case prioritization for
-Lines / delta-oriented test case prioritization for integration testing ofsoftware product
-Ofsoftware product lines / delta-oriented test case prioritization for integration testing
-Prioritization for integration testing ofsoftware product lines / delta-oriented test case
-Product lines / delta-oriented test case prioritization for integration testing ofsoftware
-Test case prioritization for integration testing ofsoftware product lines / delta-oriented
-Testing ofsoftware product lines / delta-oriented test case prioritization for integration
+case prioritization for integration testing ofsoftware product lines / Delta-oriented test
+integration testing ofsoftware product lines / Delta-oriented test case prioritization for
+lines / Delta-oriented test case prioritization for integration testing ofsoftware product
+ofsoftware product lines / Delta-oriented test case prioritization for integration testing
+prioritization for integration testing ofsoftware product lines / Delta-oriented test case
+product lines / Delta-oriented test case prioritization for integration testing ofsoftware
+test case prioritization for integration testing ofsoftware product lines / Delta-oriented
+testing ofsoftware product lines / Delta-oriented test case prioritization for integration
 
 [ Towards incremental model slicing for delta-oriented software product lines ]
-Delta-oriented software product lines / towards incremental model slicing for
-Incremental model slicing for delta-oriented software product lines / towards
-Lines / towards incremental model slicing for delta-oriented software product
-Model slicing for delta-oriented software product lines / towards incremental
-Product lines / towards incremental model slicing for delta-oriented software
-Slicing for delta-oriented software product lines / towards incremental model
-Software product lines / towards incremental model slicing for delta-oriented
+delta-oriented software product lines / Towards incremental model slicing for
+incremental model slicing for delta-oriented software product lines / Towards
+lines / Towards incremental model slicing for delta-oriented software product
+model slicing for delta-oriented software product lines / Towards incremental
+product lines / Towards incremental model slicing for delta-oriented software
+slicing for delta-oriented software product lines / Towards incremental model
+software product lines / Towards incremental model slicing for delta-oriented
 
 [ Delta-oriented model-based integration testing of large-scale systems ]
-Integration testing of large-scale systems / delta-oriented model-based
-Large-scale systems / delta-oriented model-based integration testing of
-Model-based integration testing of large-scale systems / delta-oriented
-Systems / delta-oriented model-based integration testing of large-scale
-Testing of large-scale systems / delta-oriented model-based integration
+integration testing of large-scale systems / Delta-oriented model-based
+large-scale systems / Delta-oriented model-based integration testing of
+model-based integration testing of large-scale systems / Delta-oriented
+systems / Delta-oriented model-based integration testing of large-scale
+testing of large-scale systems / Delta-oriented model-based integration
 
 [ Deployment Variability in Delta-Oriented Models ]
-Delta-oriented models / deployment variability in
-Models / deployment variability in delta-oriented
-Variability in delta-oriented models / deployment
+Delta-Oriented Models / Deployment Variability in
+Models / Deployment Variability in Delta-Oriented
+Variability in Delta-Oriented Models / Deployment
 
 [ DeltaJ 1.5: delta-oriented programming for Java 1.5 ]
-1.5 / deltaj 1.5: delta-oriented programming for java
-1.5: delta-oriented programming for java 1.5 / deltaj
-Delta-oriented programming for java 1.5 / deltaj 1.5:
-Java 1.5 / deltaj 1.5: delta-oriented programming for
-Programming for java 1.5 / deltaj 1.5: delta-oriented
+Java 1.5 / DeltaJ 1.5: delta-oriented programming for
+delta-oriented programming for Java 1.5 / DeltaJ 1.5:
+programming for Java 1.5 / DeltaJ 1.5: delta-oriented
 
 [ Delta-oriented multi software product lines ]
-Lines / delta-oriented multi software product
-Multi software product lines / delta-oriented
-Product lines / delta-oriented multi software
-Software product lines / delta-oriented multi
+lines / Delta-oriented multi software product
+multi software product lines / Delta-oriented
+product lines / Delta-oriented multi software
+software product lines / Delta-oriented multi
 
 [ Refactoring delta-oriented software product lines ]
-Delta-oriented software product lines / refactoring
-Lines / refactoring delta-oriented software product
-Product lines / refactoring delta-oriented software
-Software product lines / refactoring delta-oriented
+delta-oriented software product lines / Refactoring
+lines / Refactoring delta-oriented software product
+product lines / Refactoring delta-oriented software
+software product lines / Refactoring delta-oriented
 
 [ A Delta Oriented Approach to the Evolution and Reconciliation of Enterprise Software Products Lines ]
-Approach to the evolution and reconciliation of enterprise software products lines / a delta oriented
-Delta oriented approach to the evolution and reconciliation of enterprise software products lines / a
-Enterprise software products lines / a delta oriented approach to the evolution and reconciliation of
-Evolution and reconciliation of enterprise software products lines / a delta oriented approach to the
-Lines / a delta oriented approach to the evolution and reconciliation of enterprise software products
-Oriented approach to the evolution and reconciliation of enterprise software products lines / a delta
-Products lines / a delta oriented approach to the evolution and reconciliation of enterprise software
-Reconciliation of enterprise software products lines / a delta oriented approach to the evolution and
-Software products lines / a delta oriented approach to the evolution and reconciliation of enterprise
+Approach to the Evolution and Reconciliation of Enterprise Software Products Lines / A Delta Oriented
+Delta Oriented Approach to the Evolution and Reconciliation of Enterprise Software Products Lines / A
+Enterprise Software Products Lines / A Delta Oriented Approach to the Evolution and Reconciliation of
+Evolution and Reconciliation of Enterprise Software Products Lines / A Delta Oriented Approach to the
+Lines / A Delta Oriented Approach to the Evolution and Reconciliation of Enterprise Software Products
+Oriented Approach to the Evolution and Reconciliation of Enterprise Software Products Lines / A Delta
+Products Lines / A Delta Oriented Approach to the Evolution and Reconciliation of Enterprise Software
+Reconciliation of Enterprise Software Products Lines / A Delta Oriented Approach to the Evolution and
+Software Products Lines / A Delta Oriented Approach to the Evolution and Reconciliation of Enterprise
 
 [ Refinement-based testing of delta-oriented product lines ]
-Delta-oriented product lines / refinement-based testing of
-Lines / refinement-based testing of delta-oriented product
-Product lines / refinement-based testing of delta-oriented
-Testing of delta-oriented product lines / refinement-based
+delta-oriented product lines / Refinement-based testing of
+lines / Refinement-based testing of delta-oriented product
+product lines / Refinement-based testing of delta-oriented
+testing of delta-oriented product lines / Refinement-based
 
 [ A formal foundation for dynamic delta-oriented software product lines ]
-Delta-oriented software product lines / a formal foundation for dynamic
-Dynamic delta-oriented software product lines / a formal foundation for
-Formal foundation for dynamic delta-oriented software product lines / a
-Foundation for dynamic delta-oriented software product lines / a formal
-Lines / a formal foundation for dynamic delta-oriented software product
-Product lines / a formal foundation for dynamic delta-oriented software
-Software product lines / a formal foundation for dynamic delta-oriented
+delta-oriented software product lines / A formal foundation for dynamic
+dynamic delta-oriented software product lines / A formal foundation for
+formal foundation for dynamic delta-oriented software product lines / A
+foundation for dynamic delta-oriented software product lines / A formal
+lines / A formal foundation for dynamic delta-oriented software product
+product lines / A formal foundation for dynamic delta-oriented software
+software product lines / A formal foundation for dynamic delta-oriented
 
 [ A Liskov Principle for Delta-Oriented Programming ]
-Delta-oriented programming / a liskov principle for
-Liskov principle for delta-oriented programming / a
-Principle for delta-oriented programming / a liskov
-Programming / a liskov principle for delta-oriented
+Delta-Oriented Programming / A Liskov Principle for
+Liskov Principle for Delta-Oriented Programming / A
+Principle for Delta-Oriented Programming / A Liskov
+Programming / A Liskov Principle for Delta-Oriented
 
 [ Delta-Oriented Monitor Specification ]
-Monitor specification / delta-oriented
-Specification / delta-oriented monitor
+Monitor Specification / Delta-Oriented
+Specification / Delta-Oriented Monitor
 
 [ Conflict Detection in Delta-Oriented Programming ]
-Delta-oriented programming / conflict detection in
-Detection in delta-oriented programming / conflict
-Programming / conflict detection in delta-oriented
+Delta-Oriented Programming / Conflict Detection in
+Detection in Delta-Oriented Programming / Conflict
+Programming / Conflict Detection in Delta-Oriented
 
 [ Family-Based Analysis of Type Safety for Delta-Oriented Software Product Lines ]
-Analysis of type safety for delta-oriented software product lines / family-based
-Delta-oriented software product lines / family-based analysis of type safety for
-Lines / family-based analysis of type safety for delta-oriented software product
-Product lines / family-based analysis of type safety for delta-oriented software
-Safety for delta-oriented software product lines / family-based analysis of type
-Software product lines / family-based analysis of type safety for delta-oriented
-Type safety for delta-oriented software product lines / family-based analysis of
+Analysis of Type Safety for Delta-Oriented Software Product Lines / Family-Based
+Delta-Oriented Software Product Lines / Family-Based Analysis of Type Safety for
+Lines / Family-Based Analysis of Type Safety for Delta-Oriented Software Product
+Product Lines / Family-Based Analysis of Type Safety for Delta-Oriented Software
+Safety for Delta-Oriented Software Product Lines / Family-Based Analysis of Type
+Software Product Lines / Family-Based Analysis of Type Safety for Delta-Oriented
+Type Safety for Delta-Oriented Software Product Lines / Family-Based Analysis of
 
 [ Evolving Delta-Oriented Software Product Line Architectures ]
-Architectures / evolving delta-oriented software product line
-Delta-oriented software product line architectures / evolving
-Line architectures / evolving delta-oriented software product
-Product line architectures / evolving delta-oriented software
-Software product line architectures / evolving delta-oriented
+Architectures / Evolving Delta-Oriented Software Product Line
+Delta-Oriented Software Product Line Architectures / Evolving
+Line Architectures / Evolving Delta-Oriented Software Product
+Product Line Architectures / Evolving Delta-Oriented Software
+Software Product Line Architectures / Evolving Delta-Oriented
 
 [ A transformational proof system for delta-oriented programming ]
-Delta-oriented programming / a transformational proof system for
-Programming / a transformational proof system for delta-oriented
-Proof system for delta-oriented programming / a transformational
-System for delta-oriented programming / a transformational proof
-Transformational proof system for delta-oriented programming / a
+delta-oriented programming / A transformational proof system for
+programming / A transformational proof system for delta-oriented
+proof system for delta-oriented programming / A transformational
+system for delta-oriented programming / A transformational proof
+transformational proof system for delta-oriented programming / A
 
 [ Incremental Model-Based Testing of Delta-Oriented Software Product Lines ]
-Delta-oriented software product lines / incremental model-based testing of
-Lines / incremental model-based testing of delta-oriented software product
-Model-based testing of delta-oriented software product lines / incremental
-Product lines / incremental model-based testing of delta-oriented software
-Software product lines / incremental model-based testing of delta-oriented
-Testing of delta-oriented software product lines / incremental model-based
+Delta-Oriented Software Product Lines / Incremental Model-Based Testing of
+Lines / Incremental Model-Based Testing of Delta-Oriented Software Product
+Model-Based Testing of Delta-Oriented Software Product Lines / Incremental
+Product Lines / Incremental Model-Based Testing of Delta-Oriented Software
+Software Product Lines / Incremental Model-Based Testing of Delta-Oriented
+Testing of Delta-Oriented Software Product Lines / Incremental Model-Based
 
 [ Compositional type-checking for delta-oriented programming ]
-Delta-oriented programming / compositional type-checking for
-Programming / compositional type-checking for delta-oriented
-Type-checking for delta-oriented programming / compositional
+delta-oriented programming / Compositional type-checking for
+programming / Compositional type-checking for delta-oriented
+type-checking for delta-oriented programming / Compositional
 
 [ Delta-oriented architectural variability using MontiCore ]
-Architectural variability using monticore / delta-oriented
-Monticore / delta-oriented architectural variability using
-Variability using monticore / delta-oriented architectural
+MontiCore / Delta-oriented architectural variability using
+architectural variability using MontiCore / Delta-oriented
+variability using MontiCore / Delta-oriented architectural
 
 [ Dynamic delta-oriented programming ]
-Delta-oriented programming / dynamic
-Programming / dynamic delta-oriented
+delta-oriented programming / Dynamic
+programming / Dynamic delta-oriented
 
 [ Verification of Software Product Lines with Delta-Oriented Slicing ]
-Delta-oriented slicing / verification of software product lines with
-Lines with delta-oriented slicing / verification of software product
-Product lines with delta-oriented slicing / verification of software
-Slicing / verification of software product lines with delta-oriented
-Software product lines with delta-oriented slicing / verification of
+Delta-Oriented Slicing / Verification of Software Product Lines with
+Lines with Delta-Oriented Slicing / Verification of Software Product
+Product Lines with Delta-Oriented Slicing / Verification of Software
+Slicing / Verification of Software Product Lines with Delta-Oriented
+Software Product Lines with Delta-Oriented Slicing / Verification of
 
 [ Pure delta-oriented programming ]
-Delta-oriented programming / pure
-Programming / pure delta-oriented
+delta-oriented programming / Pure
+programming / Pure delta-oriented
 
 [ Delta-Oriented Programming of Software Product Lines ]
-Lines / delta-oriented programming of software product
-Product lines / delta-oriented programming of software
-Programming of software product lines / delta-oriented
-Software product lines / delta-oriented programming of
+Lines / Delta-Oriented Programming of Software Product
+Product Lines / Delta-Oriented Programming of Software
+Programming of Software Product Lines / Delta-Oriented
+Software Product Lines / Delta-Oriented Programming of
 
 [ SiPL - A Delta-Based Modeling Framework for Software Product Line Engineering ]
-A delta-based modeling framework for software product line engineering / sipl -
-Delta-based modeling framework for software product line engineering / sipl - a
-Engineering / sipl - a delta-based modeling framework for software product line
-Framework for software product line engineering / sipl - a delta-based modeling
-Line engineering / sipl - a delta-based modeling framework for software product
-Modeling framework for software product line engineering / sipl - a delta-based
-Product line engineering / sipl - a delta-based modeling framework for software
-Software product line engineering / sipl - a delta-based modeling framework for
+A Delta-Based Modeling Framework for Software Product Line Engineering / SiPL -
+Delta-Based Modeling Framework for Software Product Line Engineering / SiPL - A
+Engineering / SiPL - A Delta-Based Modeling Framework for Software Product Line
+Framework for Software Product Line Engineering / SiPL - A Delta-Based Modeling
+Line Engineering / SiPL - A Delta-Based Modeling Framework for Software Product
+Modeling Framework for Software Product Line Engineering / SiPL - A Delta-Based
+Product Line Engineering / SiPL - A Delta-Based Modeling Framework for Software
+Software Product Line Engineering / SiPL - A Delta-Based Modeling Framework for
 
 [ Delta modeling for software architectures ]
-Architectures / delta modeling for software
-Modeling for software architectures / delta
-Software architectures / delta modeling for
+architectures / Delta modeling for software
+modeling for software architectures / Delta
+software architectures / Delta modeling for
 
 [ Engineering delta modeling languages ]
-Delta modeling languages / engineering
-Languages / engineering delta modeling
-Modeling languages / engineering delta
+delta modeling languages / Engineering
+languages / Engineering delta modeling
+modeling languages / Engineering delta
 
 [ Handling database schema variability in software product lines ]
-Database schema variability in software product lines / handling
-Lines / handling database schema variability in software product
-Product lines / handling database schema variability in software
-Schema variability in software product lines / handling database
-Software product lines / handling database schema variability in
-Variability in software product lines / handling database schema
+database schema variability in software product lines / Handling
+lines / Handling database schema variability in software product
+product lines / Handling database schema variability in software
+schema variability in software product lines / Handling database
+software product lines / Handling database schema variability in
+variability in software product lines / Handling database schema
 
 [ Variability modelling in the ABS language ]
-Abs language / variability modelling in the
-Language / variability modelling in the abs
-Modelling in the abs language / variability
+ABS language / Variability modelling in the
+language / Variability modelling in the ABS
+modelling in the ABS language / Variability
 
 [ A novel model-based testing approach for software product lines ]
-Approach for software product lines / a novel model-based testing
-Lines / a novel model-based testing approach for software product
-Model-based testing approach for software product lines / a novel
-Novel model-based testing approach for software product lines / a
-Product lines / a novel model-based testing approach for software
-Software product lines / a novel model-based testing approach for
-Testing approach for software product lines / a novel model-based
+approach for software product lines / A novel model-based testing
+lines / A novel model-based testing approach for software product
+model-based testing approach for software product lines / A novel
+novel model-based testing approach for software product lines / A
+product lines / A novel model-based testing approach for software
+software product lines / A novel model-based testing approach for
+testing approach for software product lines / A novel model-based
 
 [ A UML profile for delta-oriented programming to support software product line engineering ]
-Delta-oriented programming to support software product line engineering / a uml profile for
-Engineering / a uml profile for delta-oriented programming to support software product line
-Product line engineering / a uml profile for delta-oriented programming to support software
-Profile for delta-oriented programming to support software product line engineering / a uml
-Programming to support software product line engineering / a uml profile for delta-oriented
-Software product line engineering / a uml profile for delta-oriented programming to support
-Support software product line engineering / a uml profile for delta-oriented programming to
-Uml profile for delta-oriented programming to support software product line engineering / a
+UML profile for delta-oriented programming to support software product line engineering / A
+delta-oriented programming to support software product line engineering / A UML profile for
+engineering / A UML profile for delta-oriented programming to support software product line
+product line engineering / A UML profile for delta-oriented programming to support software
+profile for delta-oriented programming to support software product line engineering / A UML
+programming to support software product line engineering / A UML profile for delta-oriented
+software product line engineering / A UML profile for delta-oriented programming to support
+support software product line engineering / A UML profile for delta-oriented programming to
 
 [ Fine-grained test case prioritization for integration testing of delta-oriented software product lines ]
-Case prioritization for integration testing of delta-oriented software product lines / fine-grained test
-Delta-oriented software product lines / fine-grained test case prioritization for integration testing of
-Integration testing of delta-oriented software product lines / fine-grained test case prioritization for
-Lines / fine-grained test case prioritization for integration testing of delta-oriented software product
-Prioritization for integration testing of delta-oriented software product lines / fine-grained test case
-Product lines / fine-grained test case prioritization for integration testing of delta-oriented software
-Software product lines / fine-grained test case prioritization for integration testing of delta-oriented
-Test case prioritization for integration testing of delta-oriented software product lines / fine-grained
-Testing of delta-oriented software product lines / fine-grained test case prioritization for integration
+case prioritization for integration testing of delta-oriented software product lines / Fine-grained test
+delta-oriented software product lines / Fine-grained test case prioritization for integration testing of
+integration testing of delta-oriented software product lines / Fine-grained test case prioritization for
+lines / Fine-grained test case prioritization for integration testing of delta-oriented software product
+prioritization for integration testing of delta-oriented software product lines / Fine-grained test case
+product lines / Fine-grained test case prioritization for integration testing of delta-oriented software
+software product lines / Fine-grained test case prioritization for integration testing of delta-oriented
+test case prioritization for integration testing of delta-oriented software product lines / Fine-grained
+testing of delta-oriented software product lines / Fine-grained test case prioritization for integration
 
 [ Implementing delta-oriented SPLs using PEoPL: An example scenario and case study ]
-An example scenario and case study / implementing delta-oriented spls using peopl:
-Case study / implementing delta-oriented spls using peopl: an example scenario and
-Delta-oriented spls using peopl: an example scenario and case study / implementing
-Example scenario and case study / implementing delta-oriented spls using peopl: an
-Peopl: an example scenario and case study / implementing delta-oriented spls using
-Scenario and case study / implementing delta-oriented spls using peopl: an example
-Spls using peopl: an example scenario and case study / implementing delta-oriented
-Study / implementing delta-oriented spls using peopl: an example scenario and case
+An example scenario and case study / Implementing delta-oriented SPLs using PEoPL:
+PEoPL: An example scenario and case study / Implementing delta-oriented SPLs using
+SPLs using PEoPL: An example scenario and case study / Implementing delta-oriented
+case study / Implementing delta-oriented SPLs using PEoPL: An example scenario and
+delta-oriented SPLs using PEoPL: An example scenario and case study / Implementing
+example scenario and case study / Implementing delta-oriented SPLs using PEoPL: An
+scenario and case study / Implementing delta-oriented SPLs using PEoPL: An example
+study / Implementing delta-oriented SPLs using PEoPL: An example scenario and case
 
 [ Incremental consistency checking in delta-oriented UML-models for automation systems ]
-Automation systems / incremental consistency checking in delta-oriented uml-models for
-Checking in delta-oriented uml-models for automation systems / incremental consistency
-Consistency checking in delta-oriented uml-models for automation systems / incremental
-Delta-oriented uml-models for automation systems / incremental consistency checking in
-Systems / incremental consistency checking in delta-oriented uml-models for automation
-Uml-models for automation systems / incremental consistency checking in delta-oriented
+UML-models for automation systems / Incremental consistency checking in delta-oriented
+automation systems / Incremental consistency checking in delta-oriented UML-models for
+checking in delta-oriented UML-models for automation systems / Incremental consistency
+consistency checking in delta-oriented UML-models for automation systems / Incremental
+delta-oriented UML-models for automation systems / Incremental consistency checking in
+systems / Incremental consistency checking in delta-oriented UML-models for automation
 
 [ Incremental variability management in conceptual data models of software product lines ]
-Conceptual data models of software product lines / incremental variability management in
-Data models of software product lines / incremental variability management in conceptual
-Lines / incremental variability management in conceptual data models of software product
-Management in conceptual data models of software product lines / incremental variability
-Models of software product lines / incremental variability management in conceptual data
-Product lines / incremental variability management in conceptual data models of software
-Software product lines / incremental variability management in conceptual data models of
-Variability management in conceptual data models of software product lines / incremental
+conceptual data models of software product lines / Incremental variability management in
+data models of software product lines / Incremental variability management in conceptual
+lines / Incremental variability management in conceptual data models of software product
+management in conceptual data models of software product lines / Incremental variability
+models of software product lines / Incremental variability management in conceptual data
+product lines / Incremental variability management in conceptual data models of software
+software product lines / Incremental variability management in conceptual data models of
+variability management in conceptual data models of software product lines / Incremental
 
 [ Refactoring delta-oriented product lines to enforce guidelines for efficient type-checking ]
-Delta-oriented product lines to enforce guidelines for efficient type-checking / refactoring
-Efficient type-checking / refactoring delta-oriented product lines to enforce guidelines for
-Enforce guidelines for efficient type-checking / refactoring delta-oriented product lines to
-Guidelines for efficient type-checking / refactoring delta-oriented product lines to enforce
-Lines to enforce guidelines for efficient type-checking / refactoring delta-oriented product
-Product lines to enforce guidelines for efficient type-checking / refactoring delta-oriented
-Type-checking / refactoring delta-oriented product lines to enforce guidelines for efficient
+delta-oriented product lines to enforce guidelines for efficient type-checking / Refactoring
+efficient type-checking / Refactoring delta-oriented product lines to enforce guidelines for
+enforce guidelines for efficient type-checking / Refactoring delta-oriented product lines to
+guidelines for efficient type-checking / Refactoring delta-oriented product lines to enforce
+lines to enforce guidelines for efficient type-checking / Refactoring delta-oriented product
+product lines to enforce guidelines for efficient type-checking / Refactoring delta-oriented
+type-checking / Refactoring delta-oriented product lines to enforce guidelines for efficient
 
 [ Delta-trait programming of software product lines ]
-Lines / delta-trait programming of software product
-Product lines / delta-trait programming of software
-Programming of software product lines / delta-trait
-Software product lines / delta-trait programming of
+lines / Delta-trait programming of software product
+product lines / Delta-trait programming of software
+programming of software product lines / Delta-trait
+software product lines / Delta-trait programming of
 
 [ DeltaCCS: A core calculus for behavioral change ]
-A core calculus for behavioral change / deltaccs:
-Behavioral change / deltaccs: a core calculus for
-Calculus for behavioral change / deltaccs: a core
-Change / deltaccs: a core calculus for behavioral
-Core calculus for behavioral change / deltaccs: a
+A core calculus for behavioral change / DeltaCCS:
+behavioral change / DeltaCCS: A core calculus for
+calculus for behavioral change / DeltaCCS: A core
+change / DeltaCCS: A core calculus for behavioral
+core calculus for behavioral change / DeltaCCS: A
 
 [ Compositional type checking of delta-oriented software product lines ]
-Checking of delta-oriented software product lines / compositional type
-Delta-oriented software product lines / compositional type checking of
-Lines / compositional type checking of delta-oriented software product
-Product lines / compositional type checking of delta-oriented software
-Software product lines / compositional type checking of delta-oriented
-Type checking of delta-oriented software product lines / compositional
+checking of delta-oriented software product lines / Compositional type
+delta-oriented software product lines / Compositional type checking of
+lines / Compositional type checking of delta-oriented software product
+product lines / Compositional type checking of delta-oriented software
+software product lines / Compositional type checking of delta-oriented
+type checking of delta-oriented software product lines / Compositional
 
 [ Delta modeling and model checking of product families ]
-Checking of product families / delta modeling and model
-Families / delta modeling and model checking of product
-Model checking of product families / delta modeling and
-Modeling and model checking of product families / delta
-Product families / delta modeling and model checking of
+checking of product families / Delta modeling and model
+families / Delta modeling and model checking of product
+model checking of product families / Delta modeling and
+modeling and model checking of product families / Delta
+product families / Delta modeling and model checking of
 
 [ Requirements-based delta-oriented SPL testing ]
-Delta-oriented spl testing / requirements-based
-Spl testing / requirements-based delta-oriented
-Testing / requirements-based delta-oriented spl
+SPL testing / Requirements-based delta-oriented
+delta-oriented SPL testing / Requirements-based
+testing / Requirements-based delta-oriented SPL
 
 [ Delta-oriented model-based SPL regression testing ]
-Model-based spl regression testing / delta-oriented
-Regression testing / delta-oriented model-based spl
-Spl regression testing / delta-oriented model-based
-Testing / delta-oriented model-based spl regression
+SPL regression testing / Delta-oriented model-based
+model-based SPL regression testing / Delta-oriented
+regression testing / Delta-oriented model-based SPL
+testing / Delta-oriented model-based SPL regression
 
 [ Row types for delta-oriented programming ]
-Delta-oriented programming / row types for
-Programming / row types for delta-oriented
-Types for delta-oriented programming / row
+delta-oriented programming / Row types for
+programming / Row types for delta-oriented
+types for delta-oriented programming / Row
 
 [ A tool environment for quality assurance of delta-oriented model-based SPLs ]
-Assurance of delta-oriented model-based spls / a tool environment for quality
-Delta-oriented model-based spls / a tool environment for quality assurance of
-Environment for quality assurance of delta-oriented model-based spls / a tool
-Model-based spls / a tool environment for quality assurance of delta-oriented
-Quality assurance of delta-oriented model-based spls / a tool environment for
-Spls / a tool environment for quality assurance of delta-oriented model-based
-Tool environment for quality assurance of delta-oriented model-based spls / a
+SPLs / A tool environment for quality assurance of delta-oriented model-based
+assurance of delta-oriented model-based SPLs / A tool environment for quality
+delta-oriented model-based SPLs / A tool environment for quality assurance of
+environment for quality assurance of delta-oriented model-based SPLs / A tool
+model-based SPLs / A tool environment for quality assurance of delta-oriented
+quality assurance of delta-oriented model-based SPLs / A tool environment for
+tool environment for quality assurance of delta-oriented model-based SPLs / A
 
 [ A unified and formal programming model for deltas and traits ]
-Deltas and traits / a unified and formal programming model for
-Formal programming model for deltas and traits / a unified and
-Model for deltas and traits / a unified and formal programming
-Programming model for deltas and traits / a unified and formal
-Traits / a unified and formal programming model for deltas and
-Unified and formal programming model for deltas and traits / a
+deltas and traits / A unified and formal programming model for
+formal programming model for deltas and traits / A unified and
+model for deltas and traits / A unified and formal programming
+programming model for deltas and traits / A unified and formal
+traits / A unified and formal programming model for deltas and
+unified and formal programming model for deltas and traits / A
 
 [ An extension of the ABS toolchain with a mechanism for type checking SPLs ]
-Abs toolchain with a mechanism for type checking spls / an extension of the
-Checking spls / an extension of the abs toolchain with a mechanism for type
-Extension of the abs toolchain with a mechanism for type checking spls / an
-Mechanism for type checking spls / an extension of the abs toolchain with a
-Spls / an extension of the abs toolchain with a mechanism for type checking
-Toolchain with a mechanism for type checking spls / an extension of the abs
-Type checking spls / an extension of the abs toolchain with a mechanism for
+ABS toolchain with a mechanism for type checking SPLs / An extension of the
+SPLs / An extension of the ABS toolchain with a mechanism for type checking
+checking SPLs / An extension of the ABS toolchain with a mechanism for type
+extension of the ABS toolchain with a mechanism for type checking SPLs / An
+mechanism for type checking SPLs / An extension of the ABS toolchain with a
+toolchain with a mechanism for type checking SPLs / An extension of the ABS
+type checking SPLs / An extension of the ABS toolchain with a mechanism for
 
 [ Delta-Oriented Product Prioritization for Similarity-Based Product-Line Testing ]
-Prioritization for similarity-based product-line testing / delta-oriented product
-Product prioritization for similarity-based product-line testing / delta-oriented
-Product-line testing / delta-oriented product prioritization for similarity-based
-Similarity-based product-line testing / delta-oriented product prioritization for
-Testing / delta-oriented product prioritization for similarity-based product-line
+Prioritization for Similarity-Based Product-Line Testing / Delta-Oriented Product
+Product Prioritization for Similarity-Based Product-Line Testing / Delta-Oriented
+Product-Line Testing / Delta-Oriented Product Prioritization for Similarity-Based
+Similarity-Based Product-Line Testing / Delta-Oriented Product Prioritization for
+Testing / Delta-Oriented Product Prioritization for Similarity-Based Product-Line
 
 [ Evaluating Delta-Oriented Programming for Evolving Software Product Lines ]
-Delta-oriented programming for evolving software product lines / evaluating
-Evolving software product lines / evaluating delta-oriented programming for
-Lines / evaluating delta-oriented programming for evolving software product
-Product lines / evaluating delta-oriented programming for evolving software
-Programming for evolving software product lines / evaluating delta-oriented
-Software product lines / evaluating delta-oriented programming for evolving
+Delta-Oriented Programming for Evolving Software Product Lines / Evaluating
+Evolving Software Product Lines / Evaluating Delta-Oriented Programming for
+Lines / Evaluating Delta-Oriented Programming for Evolving Software Product
+Product Lines / Evaluating Delta-Oriented Programming for Evolving Software
+Programming for Evolving Software Product Lines / Evaluating Delta-Oriented
+Software Product Lines / Evaluating Delta-Oriented Programming for Evolving
 
 [ Towards a development process for maturing delta-oriented software product lines ]
-Delta-oriented software product lines / towards a development process for maturing
-Development process for maturing delta-oriented software product lines / towards a
-Lines / towards a development process for maturing delta-oriented software product
-Maturing delta-oriented software product lines / towards a development process for
-Process for maturing delta-oriented software product lines / towards a development
-Product lines / towards a development process for maturing delta-oriented software
-Software product lines / towards a development process for maturing delta-oriented
+delta-oriented software product lines / Towards a development process for maturing
+development process for maturing delta-oriented software product lines / Towards a
+lines / Towards a development process for maturing delta-oriented software product
+maturing delta-oriented software product lines / Towards a development process for
+process for maturing delta-oriented software product lines / Towards a development
+product lines / Towards a development process for maturing delta-oriented software
+software product lines / Towards a development process for maturing delta-oriented
 
 [ Unanticipated evolution in software product lines versus independent products: A case study ]
-A case study / unanticipated evolution in software product lines versus independent products:
-Case study / unanticipated evolution in software product lines versus independent products: a
-Evolution in software product lines versus independent products: a case study / unanticipated
-Independent products: a case study / unanticipated evolution in software product lines versus
-Lines versus independent products: a case study / unanticipated evolution in software product
-Product lines versus independent products: a case study / unanticipated evolution in software
-Products: a case study / unanticipated evolution in software product lines versus independent
-Software product lines versus independent products: a case study / unanticipated evolution in
-Study / unanticipated evolution in software product lines versus independent products: a case
-Versus independent products: a case study / unanticipated evolution in software product lines
+A case study / Unanticipated evolution in software product lines versus independent products:
+case study / Unanticipated evolution in software product lines versus independent products: A
+evolution in software product lines versus independent products: A case study / Unanticipated
+independent products: A case study / Unanticipated evolution in software product lines versus
+lines versus independent products: A case study / Unanticipated evolution in software product
+product lines versus independent products: A case study / Unanticipated evolution in software
+products: A case study / Unanticipated evolution in software product lines versus independent
+software product lines versus independent products: A case study / Unanticipated evolution in
+study / Unanticipated evolution in software product lines versus independent products: A case
+versus independent products: A case study / Unanticipated evolution in software product lines
 

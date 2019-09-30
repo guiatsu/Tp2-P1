@@ -16,7 +16,7 @@ for i in 0...final do
     keywords = []
     circular_shifts = []
     a.each do |x|
-        if not(stp.Is_Stop_Word(x))
+        if (not(stp.Is_Stop_Word(x)) and not(x.count("0-9")>0))
             keywords.push(x)
         end
     end
@@ -25,13 +25,10 @@ for i in 0...final do
             circular_shifts.push(shif.Shift(a,a.index(x)))
         end
     end
-    circular_shifts.map! { |x|
-        x.downcase
-    }
-    circular_shifts.sort!
-    circular_shifts.map! { |x|
-        x.capitalize
-    }
+
+    circular_shifts.sort_by(&:downcase)
+
+    
     output.push(circular_shifts.sort)
     output.push("\n")
 end
