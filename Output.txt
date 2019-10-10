@@ -184,6 +184,7 @@ Programming of Software Product Lines / Delta-Oriented
 Software Product Lines / Delta-Oriented Programming of
 
 [ SiPL - A Delta-Based Modeling Framework for Software Product Line Engineering ]
+- A Delta-Based Modeling Framework for Software Product Line Engineering / SiPL
 A Delta-Based Modeling Framework for Software Product Line Engineering / SiPL -
 Delta-Based Modeling Framework for Software Product Line Engineering / SiPL - A
 Engineering / SiPL - A Delta-Based Modeling Framework for Software Product Line
@@ -347,6 +348,7 @@ unified and formal programming model for deltas and traits / A
 [ An extension of the ABS toolchain with a mechanism for type checking SPLs ]
 ABS toolchain with a mechanism for type checking SPLs / An extension of the
 SPLs / An extension of the ABS toolchain with a mechanism for type checking
+a mechanism for type checking SPLs / An extension of the ABS toolchain with
 checking SPLs / An extension of the ABS toolchain with a mechanism for type
 extension of the ABS toolchain with a mechanism for type checking SPLs / An
 mechanism for type checking SPLs / An extension of the ABS toolchain with a
@@ -369,6 +371,7 @@ Programming for Evolving Software Product Lines / Evaluating Delta-Oriented
 Software Product Lines / Evaluating Delta-Oriented Programming for Evolving
 
 [ Towards a development process for maturing delta-oriented software product lines ]
+a development process for maturing delta-oriented software product lines / Towards
 delta-oriented software product lines / Towards a development process for maturing
 development process for maturing delta-oriented software product lines / Towards a
 lines / Towards a development process for maturing delta-oriented software product
