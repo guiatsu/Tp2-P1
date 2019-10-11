@@ -3,14 +3,14 @@ require './Default/DefaultShift'
 require './Default/DefaultStopWord'
 require './Default/DefaultOutput'
 
-inp = Default_Input.new
+inp = Default_Input.new(true)
 shif = Default_Shift.new
 stp = Default_Stop_Word.new
 out = Default_Output.new
 output = []
 final = inp.Get_size
 for i in 0...final do
-    aux = inp.line(i).delete "\r"
+    aux = inp.line(i)
     output.push("[ " + aux + " ]")
     a = inp.line(i).split(" ")
     keywords = []
