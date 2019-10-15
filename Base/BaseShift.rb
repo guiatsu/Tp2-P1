@@ -1,5 +1,5 @@
 module Base_Shift
-    module Circular_Shift
+    module Circular_Shift # Modulo para execucao do Circular Shift
         def Shift(line, pos)
             left = line[0..(pos-1)]
             right = line[pos..line.length]

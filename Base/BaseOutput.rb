@@ -1,5 +1,5 @@
 module Base_Output
-    module Prompt
+    module Prompt # Modulo para escrita do output
         def out(output)
             puts output
         end

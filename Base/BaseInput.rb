@@ -1,8 +1,8 @@
 module Base_Input
     module Txt
-        def initialize(flag)
+        def read_file(flag) # Inicializando o arquivo do usuario ou Input padrao
 
-            if flag == true
+            if flag == true 
                 puts "Digite o nome do arquivo"
                 filename = gets.chomp
                 file = File.open("./Resources/"+filename)
@@ -13,7 +13,7 @@ module Base_Input
             end
         end
     end
-    module Index
+    module Index 
         def line(index)
             @lines |= []
             return @lines[index].delete "\r"
