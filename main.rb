@@ -3,7 +3,7 @@ require './Default/DefaultShift'
 require './Default/DefaultStopWord'
 require './Default/DefaultOutput'
 
-inp = Default_Input.new(false)
+inp = Default_Input.new(true, "")
 shif = Default_Shift.new
 stp = Default_Stop_Word.new
 out = Default_Output.new
@@ -16,7 +16,7 @@ for i in 0...final do
     keywords = []
     circular_shifts = []
     a.each do |x|
-        if (not(stp.Is_Stop_Word(x)) and not(x.count("0-9")>0))
+        if (not(stp.Is_In(x)) and not(x.count("0-9")>0))
             keywords.push(x)
         end
     end
