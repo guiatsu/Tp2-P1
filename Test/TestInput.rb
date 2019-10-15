@@ -1,7 +1,7 @@
 require './Default/DefaultInput'
 class Test_Input < Test::Unit::TestCase
     def setup
-        @input = Default_Input.new(false)
+        @input = Default_Input.new(false, "Input.txt")
     end
     def test_line
         assert_equal 'Incremental model checking of delta-oriented software product lines', @input.line(0)

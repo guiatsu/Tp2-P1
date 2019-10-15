@@ -4,7 +4,7 @@ class Test_Shift < Test::Unit::TestCase
     include Base_Input::Txt
     include Base_Input::Index
     def setup
-        read_file(false)
+        read_file(false, "Input.txt")
         
         @shift = Default_Shift.new
     end

@@ -1,6 +1,6 @@
 module Base_Input
     module Txt
-        def read_file(flag) # Inicializando o arquivo do usuario ou Input padrao
+        def read_file(flag, name) # Inicializando o arquivo do usuario ou Input padrao
 
             if flag == true 
                 puts "Digite o nome do arquivo"
@@ -8,7 +8,7 @@ module Base_Input
                 file = File.open("./Resources/"+filename)
                 @lines = file.read.split("\n")
             else
-                file = File.open("./Resources/Input.txt")
+                file = File.open("./Resources/"+name)
                 @lines = file.read.split("\n")
             end
         end

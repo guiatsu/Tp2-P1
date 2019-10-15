@@ -3,7 +3,7 @@ require './Default/DefaultShift'
 require './Default/DefaultStopWord'
 require './Default/DefaultOutput'
 
-inp = Default_Input.new(true)
+inp = Default_Input.new(false)
 shif = Default_Shift.new
 stp = Default_Stop_Word.new
 out = Default_Output.new
